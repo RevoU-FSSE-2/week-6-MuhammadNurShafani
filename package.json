@@ -1,0 +1,13 @@
+{
+    "name": "nikola_studio",
+    "version": "1.0.0",
+    "description": "Node.js on Docker",
+    "author": "Muhammad Nur Shafani",
+    "main": "app.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+    }
